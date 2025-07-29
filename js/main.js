@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbwAy20xiOlyE6vThe3nuQRbd9mZX4-IHFeKtno9vC5lQ58RNH7qdi9nYKHzgsj8u9_D/exec
+const API_URL = 'https://script.google.com/macros/s/AKfycbzV5uE45jRbHWSy-0WZAsbE6XuPYseU5A8gZWjUMEegg80G3mOyf-wEgIk9OpPDziiG/exec
 '; // Remplace ceci par ton URL Web App
 
 function fetchJournee(journee = 1) {
